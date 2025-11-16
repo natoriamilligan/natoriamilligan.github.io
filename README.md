@@ -11,7 +11,7 @@ This is a website I have created to showcase my programming/devops skills and pr
 
 ## 🚀 Getting Started
 
-You can find all my projects and demos on my portfolio and github. I also have a blog on the website where I write AWS/programming tutorials, challenges I've faced, and deep dives on AWS. Feel free to check it out! -> 😄 [www.natoria.tech](www.natoria.tech) 
+You can find all my projects and demos on my portfolio and github. I also have a blog on the website where I write AWS/programming tutorials, challenges I've faced, and deep dives on AWS. Feel free to check it out! -> 😄 [www.natoria.tech](https://www.natoria.tech) 
 
 ## 📫 Contact
 
