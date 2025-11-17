@@ -7,7 +7,7 @@
 .wrapper {
     background: linear-gradient(to bottom right, #284acf, #fd5ca0);
     width: 100%;
-    height: 100vh;
+    height: 100%
 }
 
 #home-page-wrapper {
@@ -147,14 +147,14 @@ button {
 }
 
 .project-thumbnail-wrapper {
-    max-width: 40%;
+    max-width: 100%;
+    margin-bottom: 10px;
 }
 
 .project-thumbnail {
     display: flex;
     height: 100%;
     max-width: 100%;
-    object-fit: cover;
     border-radius: 10px;
     margin-bottom: 10px;
 }
