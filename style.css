@@ -147,14 +147,10 @@ button {
     padding: 20px 30px;
 }
 
-.project-thumbnail-wrapper {
-    max-width: 100%;
-    margin-bottom: 10px;
-}
-
 .project-thumbnail {
     display: flex;
-    height: 50%;
+    height: 175px;
+    object-fit: cover;
     width: 100%;
     border-radius: 10px;
     margin-bottom: 10px;
