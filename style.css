@@ -195,6 +195,10 @@ span {
     height: 100%;
 }
 
+.banksie-btn {
+    width: 100%;
+}
+
 .project-btn:hover {
     cursor: pointer;
 }
@@ -261,8 +265,9 @@ span {
     }
 
     .project-thumbnail {
-        width: 50%;
+        max-width: 40%;
         margin-bottom: 0px;
+        max-height: 175px;
     }
 
     #contact-container {
