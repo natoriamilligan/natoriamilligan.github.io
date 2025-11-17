@@ -112,6 +112,7 @@ button {
     font-family: monospace;
     font-size: 18px;
     border-radius: 5px;
+    color: #E8E8E8;
 }
 
 #intro-btns {
@@ -153,7 +154,6 @@ button {
 
 .project-thumbnail {
     display: flex;
-    height: 100%;
     max-width: 100%;
     border-radius: 10px;
     margin-bottom: 10px;
@@ -177,8 +177,17 @@ span {
     margin-top: 5px;
 }
 
-.project-btns {
-    flex-grow: 1;
+.project-btn-wrapper {
+    width: 100%;
+    display: flex;
+}
+
+.project-btn {
+    width: 100%;
+}
+
+.project-btn:hover {
+    cursor: pointer;
 }
 
 .project-btns-container {
